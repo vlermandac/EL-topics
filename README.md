@@ -28,5 +28,7 @@ With the trained model, the goal is to classify the rest of CiNii articles that 
 
 This classification would be equivalent to perform a Link Prediction Task between all pairs of articles nodes and topics nodes.
 
+All of this will be stored in a annotation layer/graph for easy querying with SPARQL.
+
 ## 4. Possible Follow-ups
 - Considering also text embeddings to complement the results?
